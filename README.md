@@ -7,7 +7,7 @@ The objective of this project is to analyze and predict Crime cases in Indian Me
 
 The specific goals of this project are as follows:
 
-1. to analyze the historical crime data to identify trends, patterns, and factors influencing crime cases in Indian metropolitan cities. 
+1. to analyze the historical crime data to identify trends and patterns of crime cases in Indian metropolitan cities. 
 2. Preprocess the data and perform Exploratory Data Analysis and Data Visualization to identify patterns and minor details. 
 3. Develop Regression models and time series ARIMA model to forecast future crime cases based on the historical data.
 

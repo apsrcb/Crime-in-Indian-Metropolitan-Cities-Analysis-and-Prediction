@@ -19,6 +19,6 @@ Note: Prediction in this project has been forecasted only for the Economic Cases
 
 ![image](https://github.com/rithikabadam/Crime-in-Indian-Metropolitan-Cities-Analysis-and-Prediction/assets/94275810/d7bbad81-8530-467b-8471-7299b263b4cd)
 
-(refer the jupyter notebooks for other results like plots visualizing the trends of cases in each City, Year wise, variations in predicted cases vs the historical data, etc.)
+(refer the jupyter notebooks for other results like data analysis, plots visualizing the trends of cases in each City, Year wise, variations in predicted cases vs the historical data, etc.)
 
 

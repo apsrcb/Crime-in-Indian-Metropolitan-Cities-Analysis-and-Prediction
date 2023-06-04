@@ -10,7 +10,5 @@ The specific goals of this project are to analyze the historical crime data to i
 
 By leveraging machine learning techniques and time series analysis, this project aims to provide a comprehensive understanding of crime dynamics in Indian metropolitan cities and contribute towards the development to ensure public safety and security.
 
-## Contributers :
 
-- [@rithikabadam](https://github.com/rithikabadam)
 

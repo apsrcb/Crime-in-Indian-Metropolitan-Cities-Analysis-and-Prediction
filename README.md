@@ -15,8 +15,10 @@ By leveraging machine learning techniques and time series analysis, this project
 
 Note: Prediction in this project has been forecasted only for the Economic Cases(' eo cases'), the same can be followed for all other cases included in the dataset by replacing the target variable with the desired cases attribute. 
 
-##
+## Prediction of Economic cases for the Metropolitan cities- (2024 to 2026)
+
 ![image](https://github.com/rithikabadam/Crime-in-Indian-Metropolitan-Cities-Analysis-and-Prediction/assets/94275810/d7bbad81-8530-467b-8471-7299b263b4cd)
 
+(refer the jupyter notebooks for other results like plots visualizing the trends of cases in each City, Year wise, variations in predicted cases vs the historical data, etc.)
 
 
